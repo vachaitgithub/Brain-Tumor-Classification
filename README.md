@@ -1,6 +1,7 @@
 # Brain-Tumor-Classification
 Brain Tumor Classification Project 🎯
 🌟 Project Overview
+
 Brain tumor classification is a vital task in medical imaging, aiding in the diagnosis and treatment planning for patients. Leveraging cutting-edge machine learning and deep learning techniques, this project accurately classifies brain tumors from MRI images into categories such as:
 Glioma
 Pituitary Tumors
@@ -8,6 +9,7 @@ Meningioma
 No Tumor
 
 🎯 Objectives
+
 🎯 Enhance Accuracy: Improve the classification accuracy of brain tumor detection using advanced deep learning models.
 🔍 Provide Insights: Offer medical professionals a reliable tool to assist in early diagnosis and treatment planning.
 
